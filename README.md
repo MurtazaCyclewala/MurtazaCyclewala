@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on "Web Application Developement"
 - 🌱 I’m currently learning "Web developement"
